@@ -42,3 +42,5 @@ We are happy to help if you have any questions. Please contact email our Support
 [2]: https://twitter.com/codecov
 [3]: mailto:hello@codecov.io
 [4]: https://codecov.io/github/codecov/example-ruby
+
+boom.
